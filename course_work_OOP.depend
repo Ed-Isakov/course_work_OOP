@@ -1,0 +1,69 @@
+# depslib dependency file v1.0
+1698088539 source:c:\users\ed\documents\course_work_oop\main.cpp
+	"cl_application.h"
+	"cl_base.h"
+	<iostream>
+
+1698087889 c:\users\ed\documents\course_work_oop\cl_application.h
+	"cl_base.h"
+
+1698087709 c:\users\ed\documents\course_work_oop\cl_base.h
+	<vector>
+	<string>
+
+1698087999 source:c:\users\ed\documents\course_work_oop\car.cpp
+	"car.h"
+
+1698087947 c:\users\ed\documents\course_work_oop\car.h
+	"cl_base.h"
+
+1698087886 source:c:\users\ed\documents\course_work_oop\cl_application.cpp
+	"cl_application.h"
+	"cl_base.h"
+	"input.h"
+	"controller.h"
+	"road.h"
+	"output.h"
+	"traffic_light.h"
+	<iostream>
+
+1698088184 c:\users\ed\documents\course_work_oop\input.h
+	"cl_base.h"
+
+1698088094 c:\users\ed\documents\course_work_oop\controller.h
+	"cl_base.h"
+
+1698088340 c:\users\ed\documents\course_work_oop\road.h
+	"cl_base.h"
+
+1698088271 c:\users\ed\documents\course_work_oop\output.h
+	"cl_base.h"
+
+1698088383 c:\users\ed\documents\course_work_oop\traffic_light.h
+	"cl_base.h"
+
+1698087766 source:c:\users\ed\documents\course_work_oop\cl_base.cpp
+	"cl_base.h"
+	<iostream>
+
+1698088106 source:c:\users\ed\documents\course_work_oop\controller.cpp
+	"controller.h"
+
+1698088143 source:c:\users\ed\documents\course_work_oop\input.cpp
+	"input.h"
+	<iostream>
+
+1698088269 source:c:\users\ed\documents\course_work_oop\output.cpp
+	"output.h"
+	<iostream>
+
+1698088338 source:c:\users\ed\documents\course_work_oop\road.cpp
+	"road.h"
+	"car.h"
+	<iostream>
+	<algorithm>
+
+1698088416 source:c:\users\ed\documents\course_work_oop\traffic_light.cpp
+	"traffic_light.h"
+	<iostream>
+
